@@ -11,6 +11,7 @@ organize the data by using filters and formatting to generate insights for Louis
 use conditional formatting to customize our worksheet. This will refine the visual presentation of the data in the worksheet to provide Louise with information at a glance.
 Louise is looking forward to your analysis, but she would benefit from additional visualization of the data so that she can see the outcomes of all the categories. Let's help Louise by creating summary tables, charts, and graphs.
 created subcategories & parent categories
+Another valuable piece of data is the length of fundraising campaigns. Is the length of a campaign correlated with its success? To help Louise plan her campaign timeline, let's take a closer look at how campaign length might be tied to its outcome. In order to do this, we'll need to convert the Unix timestamps to a more readable format.
 pivot table & pivot chart
 
 Another valuable piece of data is the length of fundraising campaigns. Is the length of a campaign correlated with its success? To help Louise plan her campaign timeline, let's take a closer look at how campaign length might be tied to its outcome. In order to do this, we'll need to convert the Unix timestamps to a more readable format.
