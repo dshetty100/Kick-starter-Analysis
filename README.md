@@ -21,13 +21,10 @@ The funding for the play category shows 73 - 76% success rate for funding of les
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-   The funding for the theater category is most likely to be more successful if launched in the second or third quarter of the year.
+- The funding for the theater category is most likely to be more successful if launched in the second or third quarter of the year.
    The funding for the theater category is least likely to be successful if launced in the fourth quarter of the year.
    
-- What can you conclude about the Outcomes based on Goals?
-   The play subcategory campaign with goal amount less than $5000 is more likely to be successful. Although the data shows that some play with a funding bettween $35000 - $45000 may be somewhat successful.
-   But, those campaign with goal amount above $45000 are most lokely to fail. 
+- The play subcategory campaign with goal amount less than $5000 is more likely to be successful. Although the data shows that some play with a funding between $35000 - $45000 may be somewhat successful. But, those campaign with goal amount above $45000 are most lokely to fail. 
 
 
 - What are some limitations of this dataset?
