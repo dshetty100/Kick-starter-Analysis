@@ -12,6 +12,7 @@ The purpose of this project is to determine how various fund raising campaign fa
 It is observed that the theater campaigns that were launched in the month of May was the most succesful, and those launched in the month of December were least successful.
 The number of campaign that failed were on and averge pretty steady over the period of year. 
 There were very few campaign that were canceled in this category
+!Figure 1(Kick-starter-Analysis/resources/Theater_Outcomes_vs_Launch)
 
 ### Analysis of Outcomes Based on Goals
 The funding for the play category shows 73 - 76% success rate for funding of less than $5000. It also shows a success rate of 67% for fundings between $35000 - $45000.
