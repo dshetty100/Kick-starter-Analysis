@@ -1,4 +1,4 @@
-# Analysis of a fundraising campaign dataset
+# An Analysis of Kickstarter Campaign Dataset
 
 ## Overview of the Project
 ### The purpose of this project is to determine how various fund raising campaign fared in relation to their   
