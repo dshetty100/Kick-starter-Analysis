@@ -16,7 +16,7 @@ It is observed that the theater campaigns that were launched in the month of May
 ### Analysis of Outcomes Based on Goals
 The funding for the play category shows 73 - 76% success rate for funding of less than $5000. It also shows a success rate of 67% for fundings between $35000 - $45000. The succes rate was the lowest for funds above $45000 (less than 13%).
 
-![Figure 2](/resources/Outcomes_vs_Goals)
+![Figure 2](/resources/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 
 ## Results
