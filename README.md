@@ -41,4 +41,4 @@ The challenges that I encountered was converting the deadline and the launch dat
 
 - The data for the play subcategory in this dataset was sparse. Choosing other dataset with more data on play subcategory may help reduce statistical error in the analysis. 
 
-- A graph of   A box plot showing the summary statistics and possible ouliers in the data would provide further insight.
+- A graph of play outcome based on launch date rather than theater outcome based on launch date would have provided Louise a more accurate picture of how the success of her play would correlated with the launch date. Also, a box plot showing the summary statistics would help determine the accuracy of the results obtained from this analysis.
