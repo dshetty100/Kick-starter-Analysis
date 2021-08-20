@@ -21,7 +21,7 @@ From the chart it is observed that the theater campaigns that were launched in t
 ### Analysis of Outcomes in Play Subcategory Based on Goals
 The data for this part of the analysis was obtaned by counting the number of play subcategory with goal amount binned into smaller ranges ($1000 -$5000, $5000 -$10000,...) for variou outcomes (successful, failed, and canceled). A line chart was then generated showing the number of successful, failed, or canceled plays in percentage for various goal amount. The line chart is as shown below.
 
-The line chart is as shown below.
+
 ![Figure 2](/resources/Outcomes_vs_Goals.png)
 
 The funding for the play category shows 73 - 76% success rate for funding of less than $5000. It also shows a success rate of 67% for fundings between $35000 - $45000. The succes rate was the lowest for funds above $45000 (less than 13%).
