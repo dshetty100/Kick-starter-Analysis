@@ -1,7 +1,7 @@
 # An Analysis of Kickstarter Campaign Dataset
 
 ## Overview of the Project
-The purpose of this project is to help Louise with a fundraising campaign for her play *Fever*. The idea is to determine how various fund raising campaign for a play in the past fared in relation to the canpaign launch dates and funding goals. This would give Louise some insight into what goals to set for her play and how the length of the campaign would correlate with her success.
+The purpose of this project is to help Louise with a fundraising campaign for her play *Fever*. The goal is to determine how various fund raising campaign for a play in the past fared in relation to the canpaign launch dates and funding goals. By analysing the past data Louise will be able to gain insight into what goals to set for her play, and how the length of the campaign would correlate with her success.
 
 ## Analysis and Challenges
 The analysis was carried out using the [kickstarter](/Kickstarter_Challenge.xlxs) data that contains a list of past campaign goal and pledged amounts, campaign outcomes, campaign categories, and their launch date, in a tabular form.
