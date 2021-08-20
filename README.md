@@ -4,9 +4,9 @@
 The purpose of this project is to help Louise with a fundraising campaign for her play *Fever*. The goal is to determine how various fund raising campaign for a play in the past fared in relation to the canpaign launch dates and funding goals. By analysing the past data Louise will be able to gain insight into what goals to set for her play, and how the length of the campaign would correlate with her success.
 
 ## Analysis and Challenges
-The analysis was carried out using the [kickstarter](/Kickstarter_Challenge.xlxs) data that contains a list of past campaign goal and pledged amounts, campaign outcomes, campaign categories, and their launch date, in a tabular form.
+The analysis was carried out using the [kickstarter](/Kickstarter_Challenge.xlxs) data that contained a list of past campaign goal amount, amount pledged, outcomes of the campaign, campaign categories, and their launch date, in a tabular form.
 
-The analysis focussed on campaign outcomes (successful, failed, and canceled), campaign goal amount, campaign category (theater), campaign subcategory (plays), and the campaign launch date from the dataset. It resulted in two sets of analysis, 1) the outcome of the campagn in theater category based on their launch date, and 2) the outcome of campaign in a play subcategory based on goal amount.
+This analysis focussed on campaign outcomes (successful, failed, and canceled), campaign goal amount, campaign category (theater), campaign subcategory (plays), and the campaign launch date from the dataset. It resulted in two sets of analysis, 1) the outcome of the campagn in theater category based on their launch date, and 2) the outcome of campaign in a play subcategory based on goal amount.
 
 #### Analysis of Outcomes in Theater Category Based on Launch Date
 The data was analyzed by first splitting the *Category & Subcategory* column into separate *Parent Category* and *Subcategory* columns in the data sheet. The deadline and the launch date colums were converted from the Unix timestamps to a more readable format into separate columns (*Date Created Conversion* and *Date Ended Conversion* columns). A column for the year (*Years* column) was also added and extracted from *Date Created Conversion* column. 
