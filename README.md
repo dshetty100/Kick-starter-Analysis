@@ -35,8 +35,6 @@ The funding for the play category shows 73 - 76% success rate for funding of les
    
 - The play subcategory campaign with goal amount less than $5000 is more likely to be successful. Although the data shows that some play with a funding between $35000 - $45000 may be somewhat successful. But, those campaign with goal amount above $45000 are most lokely to fail. 
 
-
-- What are some limitations of this dataset?
-   The data probably has some outliers that needs to be sorted out and taken care of.   
-
-- What are some other possible tables and/or graphs that we could create?
+- The data probably has some outliers that needs to be sorted out and taken care of.   
+ 
+- A box plot showing the summary statistics and possible ouliers in the data would provide further insight.
