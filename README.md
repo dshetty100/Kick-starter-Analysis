@@ -30,6 +30,7 @@ The data for this part of the analysis was obtaned by counting the number of pla
 The campaign for the play category shows 73 - 76% success rate for the goal amount less than $5000. It also shows a success rate of 67% for fundings between $35000 - $45000. The succes rate drops significantly for goal amount above $45000 (less than 13%). 
 
 ### Challenges and Difficulties Encountered
+The challenges that I encountered was converting the deadline and the launch date to a human-readable format. This was overcome by searching for the "convert Timestamp To Date" on google and going to the site https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html
 
 ## Results
 
