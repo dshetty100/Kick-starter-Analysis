@@ -39,6 +39,6 @@ The challenges that I encountered was converting the deadline and the launch dat
    
 - Louise's campaign with a goal amount less than $5000 is more likely to be successful. Although the data shows that some play with a funding between $35000 - $45000 may also be     successful. However, her campaign with goal amount above $45000 is most likely to fail. 
 
-- The data probably has some outliers that needs to be sorted out and taken care of.   
- 
-- A box plot showing the summary statistics and possible ouliers in the data would provide further insight.
+- The data for the play subcategory in this dataset was sparse. Choosing other dataset with more data on play subcategory may help reduce statistical error in the analysis. 
+
+- A graph of   A box plot showing the summary statistics and possible ouliers in the data would provide further insight.
