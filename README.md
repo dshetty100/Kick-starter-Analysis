@@ -27,7 +27,7 @@ The data for this part of the analysis was obtaned by counting the number of pla
 ![Figure 2](/resources/Outcomes_vs_Goals.png)
 
 
-The funding for the play category shows 73 - 76% success rate for funding of less than $5000. It also shows a success rate of 67% for fundings between $35000 - $45000. The succes rate was the lowest for funds above $45000 (less than 13%).
+The campaign for the play category shows 73 - 76% success rate for the goal amount less than $5000. It also shows a success rate of 67% for fundings between $35000 - $45000. The succes rate drops significantly for goal amount above $45000 (less than 13%). 
 
 #### Challenges and Difficulties Encountered
 
