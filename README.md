@@ -36,7 +36,7 @@ The campaign for the play category shows 73 - 76% success rate for the goal amou
 - Louise's campaign for her play (which belong to theater category) is most likely to be successful if launched in the second quarter of the year.
    The campaign is less likely to be successful if launced in the fourth quarter of the year.
    
-- Louise's campaign with a goal amount less than $5000 is more likely to be successful. Although the data shows that some play with a funding between $35000 - $45000 may also be     successful. However, her campaign with goal amount above $45000 are most likely to fail. 
+- Louise's campaign with a goal amount less than $5000 is more likely to be successful. Although the data shows that some play with a funding between $35000 - $45000 may also be     successful. However, her campaign with goal amount above $45000 is most likely to fail. 
 
 - The data probably has some outliers that needs to be sorted out and taken care of.   
  
