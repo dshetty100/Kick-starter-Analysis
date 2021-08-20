@@ -31,7 +31,7 @@ The campaign for the play category shows 73 - 76% success rate for the goal amou
 
 ### Challenges and Difficulties Encountered
 The challenges that I encountered was converting the deadline and the launch date to a human-readable format. This was overcome by searching for the "convert Timestamp To Date" on google and going to the site https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html
-
+Also, since the stastics relating to the play category was poor, the margin of error in this analysis could be significant.
 ## Results
 
 - Louise's campaign for her play (which belong to theater category) is most likely to be successful if launched in the second quarter of the year.
