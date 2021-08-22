@@ -4,7 +4,7 @@
 The purpose of this project is to help Louise with a fundraising campaign for her play *Fever*. The goal is to determine how various fund raising campaign for a play in the past fared in relation to the canpaign launch dates and funding goals. By analysing the past data Louise will be able to gain insight into what goals to set for her play, and how the length of the campaign would correlate with her success.
 
 ## Analysis and Challenges
-The analysis was carried out using the [kickstarter](/Kickstarter_Challenge.xlxs) data that contained a list of past campaign goal amount, amount pledged, outcomes of the campaign, campaign categories, and their launch date, in a tabular form.
+The analysis was carried out using the kickstarter data that contained a list of past campaign goal amount, amount pledged, outcomes of the campaign, campaign categories, and their launch date, in a tabular form.
 
 This analysis focussed on campaign outcomes (successful, failed, and canceled), campaign goal amount, campaign category (theater), campaign subcategory (plays), and the campaign launch date from the dataset. It resulted in two sets of analysis, 1) the outcome of the campagn in theater category based on their launch date, and 2) the outcome of campaign in a play subcategory based on goal amount.
 
